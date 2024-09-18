@@ -39,7 +39,8 @@
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/keyed-db": "^0.2.4",
+        "@adiwajshing/baileys": "npm:@whiskeysockets/baileys@*",
+        "whiskeysockets/baileys": "^6.6.0
         "@bochilteam/scraper": "^4.2.4",
         "acrcloud": "^1.4.0",
         "aptoide-scraper": "^1.0.1",
